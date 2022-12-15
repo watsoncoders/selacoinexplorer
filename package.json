@@ -24,7 +24,7 @@
     "reindex-last": "sh ./scripts/sync.sh $(which node) reindex-last"
   },
   "dependencies": {
-    "express": ">=4.17.1",
+    "express": ">=4.17.3",
     "async": "^3.2.2",
     "intl": "^1.2.5",
     "serve-favicon": "^2.5.0",
